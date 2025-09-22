@@ -61,4 +61,5 @@ The app has two main components:
 - **Persistence:** Room (local DB), DataStore  
 - **Dependency Injection:** Hilt  
 - **APIs:**  
-  - [TheCatAPI](https://thecatapi.com/) (c
+  - [TheCatAPI](https://thecatapi.com/) (cat breeds & images)  
+  - [RMA Leaderboard API](https://rma.finlab.rs)  
