@@ -62,4 +62,14 @@ The app has two main components:
 - **Dependency Injection:** Hilt  
 - **APIs:**  
   - [TheCatAPI](https://thecatapi.com/) (cat breeds & images)  
-  - [RMA Leaderboard API](https://rma.finlab.rs)  
+  - [RMA Leaderboard API](https://rma.finlab.rs)
+
+
+ 
+## Project Structure
+
+- app/ – Main application module.
+- data/ – API models, database entities, repositories.
+- ui/ – Compose UI screens and navigation.
+- quiz/ – Quiz logic, randomization, scoring.
+- leaderboard/ – API integration for leaderboard results.
